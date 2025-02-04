@@ -68,4 +68,6 @@ int main(){
         printf("Carta 2 venceu!\n");
     }
 
+    printf("novo commit\n");
+
     }
